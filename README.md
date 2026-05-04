@@ -18,9 +18,9 @@
 ## About me
 
 - 🎓 Graduate student at **RWTH Aachen University**
-- 🔬 Research focus: **Deep Learning**, **Computer Vision**, and **Physics-Informed Neural Networks**
-- 🧠 Currently exploring: XPBD simulation, rigid body dynamics, and neural PDE solvers
-- 🛠️ I build things from scratch to truly understand them
+- 🔬 Research focus: **Deep Learning**, **Computer Vision**, **Simulation Engines**, **Reinforcement Learning**, **LLMs**, **VLMs**, **VLAs**, **VLPs**and **Physics-Informed Neural Networks**
+- 🧠 Currently working on thesis: XPBD simulation, rigid body dynamics, deformable bodies
+- 🛠️ I try to build things from scratch to truly understand them
 
 ---
 
