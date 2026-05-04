@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Masood 👋</h1>
 
 <p align="center">
-  MSc student @ RWTH Aachen · Deep Learning & Computer Vision researcher<br/>
+  MSc student @ RWTH Aachen · Deep Learning, Computer Vision & Scientific ML researcher — building simulation engines, exploring LLMs, VLMs and Reinforcement learning<br/>
   Building physics-informed neural networks and language models from scratch
 </p>
 
@@ -18,7 +18,7 @@
 ## About me
 
 - 🎓 Graduate student at **RWTH Aachen University**
-- 🔬 Research focus: **Deep Learning**, **Computer Vision**, **Simulation Engines**, **Reinforcement Learning**, **LLMs**, **VLMs**, **VLAs**, **VLPs** and **Physics-Informed Neural Networks**
+- 🔬 Research focus: **Deep Learning**, **Computer Vision**, **Simulation Engines**, **Reinforcement Learning**, **LLMs**, **VLMs**, **VLAs** and **Physics-Informed Neural Networks**
 - 🧠 Currently working on thesis: XPBD simulation, rigid body dynamics, deformable bodies
 - 🛠️ I try to build things from scratch to truly understand them
 
