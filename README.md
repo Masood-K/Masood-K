@@ -18,7 +18,7 @@
 ## About me
 
 - 🎓 Graduate student at **RWTH Aachen University**
-- 🔬 Research focus: **Deep Learning**, **Computer Vision**, **Simulation Engines**, **Reinforcement Learning**, **LLMs**, **VLMs**, **VLAs**, **VLPs**and **Physics-Informed Neural Networks**
+- 🔬 Research focus: **Deep Learning**, **Computer Vision**, **Simulation Engines**, **Reinforcement Learning**, **LLMs**, **VLMs**, **VLAs**, **VLPs** and **Physics-Informed Neural Networks**
 - 🧠 Currently working on thesis: XPBD simulation, rigid body dynamics, deformable bodies
 - 🛠️ I try to build things from scratch to truly understand them
 
@@ -30,14 +30,14 @@
 |---|---|---|
 | [Ground_heat_pinns](https://github.com/Masood-K/Ground_heat_pinns) | Physics-Informed Neural Network for ground heat transfer simulation | PyTorch, PINNs |
 | [llm_from_scratch](https://github.com/Masood-K/llm_from_scratch) | LLM built from scratch — transformer architecture by hand | Python, Jupyter |
-
+| [computer-vision-projects](https://github.com/Masood-K/computer-vision-projects) | Alexnet, VGG, ResNET, MobileNet, SqueezeNet, OpenCV — CNN related architectures | Python, PyTorch, OpenCV |
 ---
 
 ## Tech stack
 
 ```
 Languages   Python  · C++
-Frameworks  PyTorch · TensorFlow · NumPy · Matplotlib
+Frameworks  PyTorch · TensorFlow · NumPy · Matplotlib · OpenCV
 Tools       Jupyter · Git · GitHub
 Domain      Deep Learning · Computer Vision · Scientific ML
 ```
