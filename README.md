@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Masood 👋</h1>
 
 <p align="center">
-  MSc student @ RWTH Aachen · Deep Learning, Computer Vision & Scientific ML researcher — building simulation engines, exploring LLMs, VLMs and Reinforcement learning<br/>
+  MSc student @ RWTH Aachen · Deep Learning, Computer Vision & Scientific ML researcher — building simulation engine solvers, exploring LLMs, VLMs and Reinforcement learning<br/>
   Building physics-informed neural networks and language models from scratch
 </p>
 
@@ -17,9 +17,9 @@
 
 ## About me
 
-- 🎓 Graduate student at **RWTH Aachen University**
-- 🔬 Research focus: **Deep Learning**, **Computer Vision**, **Simulation Engines**, **Reinforcement Learning**, **LLMs**, **VLMs**, **VLAs** and **Physics-Informed Neural Networks**
-- 🧠 Currently working on thesis: XPBD simulation, rigid body dynamics, deformable bodies
+- 🎓 MSc **Robotics Systems Engineering** @ **RWTH Aachen University**
+- 🔬 Research focus: **Deep Learning**, **Computer Vision**, **Robotics**- spanning **Simulation Engine Solvers**, **Reinforcement Learning**, **LLMs**, **VLMs**, **VLAs** and **Physics-Informed Neural Networks**
+- 🧠 Currently working on thesis: XPBD simulation solver, deformable bodies, rigid body dynamics
 - 🛠️ I try to build things from scratch to truly understand them
 
 ---
@@ -30,7 +30,7 @@
 |---|---|---|
 | [Ground_heat_pinns](https://github.com/Masood-K/Ground_heat_pinns) | Physics-Informed Neural Network for ground heat transfer simulation | PyTorch, PINNs |
 | [llm_from_scratch](https://github.com/Masood-K/llm_from_scratch) | LLM built from scratch — transformer architecture by hand | Python, Jupyter |
-| [computer-vision-projects](https://github.com/Masood-K/computer-vision-projects) | Alexnet, VGG, ResNET, MobileNet, SqueezeNet, OpenCV — CNN related architectures | Python, PyTorch, OpenCV |
+| [computer-vision-projects](https://github.com/Masood-K/computer-vision-projects) | Alexnet, VGG, ResNET, MobileNet, SqueezeNet, UNET, OpenCV — CNN related architectures | Python, PyTorch, OpenCV |
 ---
 
 ## Tech stack
